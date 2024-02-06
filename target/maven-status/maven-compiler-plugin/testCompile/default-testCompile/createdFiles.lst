@@ -1,4 +1,5 @@
 com\example\TestLionSex.class
+com\example\TestExceptionLionSex.class
 com\example\TestFeline.class
 com\example\TestCat.class
 com\example\TestLionGetFood.class
